@@ -1,0 +1,40 @@
+.ct-slice-pie {
+	stroke: white;
+	stroke-width: 2px;
+}
+
+.ct-label {
+	fill: rgb(255,255,255);
+	font-weight: bold;
+}
+
+.ct-series-a .ct-slice-pie {
+	fill: hsl(220, 60%, 50%);
+}
+
+.ct-series-b .ct-slice-pie {
+	fill: hsl(12, 85%, 47%);
+}
+
+.legend {
+	padding-left: 4.1em;
+}
+
+.legend li {
+	display: inline;
+	list-style: none;
+	margin-right: 3em;
+}
+
+.legend li:before {
+	display: inline-block;
+	content: " ";
+	width: 1em;
+	height: 1em;
+}
+
+.legend li.age_18_24:before { background: #D70206 }
+.legend li.age_25_34:before { background: #F05B4F }
+.legend li.age_35_44:before { background: #F4C63D }
+.legend li.age_45_54:before { background: #D17905 }
+.legend li.age_55_64:before { background: #453D3F }
