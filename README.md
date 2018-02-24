@@ -4,7 +4,7 @@
 
 ## Research Software Engineering und Digital Humanities. Reflexion, Kartierung, Organisation
 
-### Stefan Druskat, Alexander Czmiel, Torsten Schrade
+### Stephan Druskat, Alexander Czmiel, Torsten Schrade
 
 Presentation for the DH-RSE conference workshop.
 
