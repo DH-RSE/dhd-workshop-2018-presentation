@@ -38,3 +38,18 @@
 .legend li.age_35_44:before { background: #F4C63D }
 .legend li.age_45_54:before { background: #D17905 }
 .legend li.age_55_64:before { background: #453D3F }
+
+.data_formats .ct-bar,
+.software_quality .ct-bar,
+.test_workflows .ct-bar {
+	stroke-width: 25px;
+}
+
+.software_status .ct-bar,
+.software_prestige .ct-bar,
+.job_satisfaction .ct-bar,
+.career_satisfaction .ct-bar,
+.probability_promotion .ct-bar,
+.market_value .ct-bar {
+	stroke-width: 40px;
+}
