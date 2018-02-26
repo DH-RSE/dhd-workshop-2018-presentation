@@ -53,3 +53,31 @@
 .market_value .ct-bar {
 	stroke-width: 40px;
 }
+
+.bog {
+	outline: 1px solid #333;
+	position: relative;
+	overflow: hidden;
+	height: 4em;
+	margin-bottom: 1em;
+}
+
+.bog h4 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	text-align: center;
+	font-size: 42px;
+	font-weight: bold;
+	padding: 37px 0;
+	width: 80px;
+	background: #333;
+	color: #fff;
+}
+
+.bog p {
+	position: absolute;
+	top: 28%;
+	left: 90px;
+	font-size: 20px;
+}
